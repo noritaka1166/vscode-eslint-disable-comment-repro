@@ -1,0 +1,8 @@
+{
+  "eslint.codeAction.disableRuleComment.location": "sameLine",
+  "eslint.codeAction.disableRuleComment.commentStyle": "line",
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "never"
+  }
+}

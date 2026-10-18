@@ -1,0 +1,13 @@
+{
+  "name": "vscode-eslint-disable-comment-repro",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint repro.js",
+    "start": "node repro.js"
+  },
+  "devDependencies": {
+    "eslint": "9.39.0"
+  }
+}
